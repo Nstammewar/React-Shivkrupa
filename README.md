@@ -1,2 +1,6 @@
 # React-Shivkrupa
-Perssonal Project
+
+This is ecommerce Project .
+this is front-end code repository  for react
+
+
